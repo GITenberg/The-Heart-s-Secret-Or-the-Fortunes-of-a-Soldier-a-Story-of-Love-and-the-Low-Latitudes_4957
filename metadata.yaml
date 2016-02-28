@@ -1,0 +1,29 @@
+_repo: The-Heart-s-Secret-Or-the-Fortunes-of-a-Soldier-a-Story-of-Love-and-the-Low-Latitudes_4957
+creator:
+  author:
+    agent_name: Ballou, Maturin Murray
+    aliases:
+    - Murray, Lieutenant
+    - Ballou, M. M. (Maturin Murray)
+    - Ballou, Maturin M. (Maturin Murray)
+    - Forester, Frank
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '1543'
+    url: http://www.gutenberg.org/2009/agents/1543
+    wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cuba -- Fiction'
+- !lcc 'PS'
+title: 'The Heart''s Secret; Or, the Fortunes of a Soldier: a Story of Love and the
+  Low Latitudes.'
+url: http://www.gutenberg.org/ebooks/4957
