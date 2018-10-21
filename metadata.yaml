@@ -1,5 +1,5 @@
 _repo: The-Heart-s-Secret-Or-the-Fortunes-of-a-Soldier-a-Story-of-Love-and-the-Low-Latitudes_4957
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Cuba -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: 'The Heart''s Secret; Or, the Fortunes of a Soldier: a Story of Love and the
   Low Latitudes.'
 url: http://www.gutenberg.org/ebooks/4957
